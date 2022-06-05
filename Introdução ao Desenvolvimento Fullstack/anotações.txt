@@ -1,0 +1,6 @@
+Anotações úteis sobre a segunda unidade do curso de Fullstack Santader da DIO
+
+Sités úteis:
+HTML: https://www.w3schools.com/html/default.asp
+CSS: https://www.w3schools.com/css/default.asp
+JS: https://www.w3schools.com/js/default.asp
