@@ -1,0 +1,4 @@
+Anotações sobre o curso de Git e GitHub.
+
+Git é um gerenciador de pacotes versionado e distribuído.
+
