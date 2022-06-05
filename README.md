@@ -1,2 +1,3 @@
-# Desafio-1-DIO-Github
-Atividade do DIO para a criação de um repositório
+# Desafio 1 DIO Github
+
+Repositório criado para o envio da atividade da DIO.
